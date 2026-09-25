@@ -1,0 +1,8 @@
+{
+ "file": "vecs_fp16.npy",
+ "size": 40429184,
+ "parts": 1,
+ "sha256": "68f8208a611a19bf8bff55b13f0c32bfce9afb9aefeca2c630cab839bcee2a0b",
+ "dim": 768,
+ "vocab": 26321
+}
